@@ -29,9 +29,9 @@
 
 ### TA Meetings
 
--test
+-[Meeting 1]()
 
-### Sponor Meetings
+### Sponsor Meetings
 
 [Meeting 1](https://github.com/jacobhallberg/TeamVisaMeetings/blob/master/SponsorMeeting1.pdf)
 
