@@ -29,7 +29,7 @@
 
 ### TA Meetings
 
-[Meeting 1]()
+[Meeting 1](https://github.com/jacobhallberg/TeamVisaMeetings/blob/master/TAMeeting1.pdf)
 
 ### Sponsor Meetings
 
