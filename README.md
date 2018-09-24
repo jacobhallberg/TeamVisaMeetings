@@ -36,3 +36,5 @@
 [Meeting 1](https://github.com/jacobhallberg/TeamVisaMeetings/blob/master/SponsorMeeting1.pdf) 
 
 [Meeting 2](https://github.com/jacobhallberg/TeamVisaMeetings/blob/master/TAMeeting2.pdf)
+
+[Meeting 3](https://github.com/jacobhallberg/TeamVisaMeetings/blob/master/TAMeeting3.pdf)
